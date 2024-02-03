@@ -17,7 +17,7 @@ Before you begin, ensure you have the following tools installed on your machine:
 
 Follow these steps to set up the project on your local machine:
 
-1. Clone the Repository
+1. Clone the Repository:
    Begin by cloning this repository to your local machine. Open a terminal and run:
 
 ```
@@ -26,7 +26,7 @@ git clone <repository-url>
 
 Replace `<repository-url>` with the actual URL of this repository.
 
-2. Install Dependencies
+2. Install Dependencies:
    Navigate into the project directory and install the necessary dependencies using npm (Node Package Manager):
 
 ```
@@ -34,21 +34,21 @@ cd rust_wasm
 npm install
 ```
 
-3. Build the Project
+3. Build the Project:
    Once the dependencies are installed, you can compile the Rust code into WebAssembly by running:
 
 ```
    npm run build
 ```
 
-4. Run the Development Server
+4. Run the Development Server:
    Start the local development server to run the project in your browser:
 
 ```
 npm run dev
 ```
 
-5. Riew the Result
+5. Riew the Result:
    Open your web browser and go to the URL provided by the development server (typically [http://localhost:5173]() or similar). Open the browser's console to see the results of the Rust code executed in WebAssembly.
 
 ### Additional Information
