@@ -62,4 +62,4 @@ FAQ
 A: Ensure you're following the instructions on the official Rust website. If you encounter specific errors, searching the error message online often leads to helpful community responses.
 
 **Q: My build fails with a WebAssembly-related error. How can I fix it?**
-A: Make sure you have the latest version of the `wasm-pack` tool installed. You can install or update it by running cargo install wasm-pack.
+A: Make sure you have the latest version of the `wasm-pack` tool installed. You can install or update it by running `cargo install wasm-pack`.
