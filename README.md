@@ -21,7 +21,7 @@ Follow these steps to set up the project on your local machine:
    Begin by cloning this repository to your local machine. Open a terminal and run:
 
 ```
-git clone 
+git clone <repository-url>
 ```
 
 Replace `<repository-url>` with the actual URL of this repository.
