@@ -54,10 +54,12 @@ npm run dev
 ### Additional Information
 
 **Learning Resources**: If you're new to Rust, WebAssembly, or integrating Rust with the web, consider checking out The Rust and WebAssembly Book for comprehensive guides and tutorials.
+
 **Troubleshooting**: For common issues related to setup and execution, refer to the FAQ section below. If you encounter any problems not covered in the FAQ, please open an issue in the repository.
 FAQ
 
 **Q: I'm having trouble installing Rust. What can I do?**
 A: Ensure you're following the instructions on the official Rust website. If you encounter specific errors, searching the error message online often leads to helpful community responses.
+
 **Q: My build fails with a WebAssembly-related error. How can I fix it?**
 A: Make sure you have the latest version of the `wasm-pack` tool installed. You can install or update it by running cargo install wasm-pack.
