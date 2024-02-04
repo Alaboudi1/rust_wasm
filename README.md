@@ -9,9 +9,9 @@ These instructions will guide you through setting up your environment and runnin
 Prerequisites
 Before you begin, ensure you have the following tools installed on your machine:
 
-* Node.js: A JavaScript runtime built on Chrome's V8 JavaScript engine. Download and install it from [https://nodejs.org/en]().
+* Node.js: A JavaScript runtime built on Chrome's V8 JavaScript engine. Download and install it from [https://nodejs.org/en](https://nodejs.org/en).
   
-* Rust is necessary for compiling our Rust code into WebAssembly. Download and install Rust from [https://www.rust-lang.org]().
+* Rust is necessary for compiling our Rust code into WebAssembly. Download and install Rust from [https://www.rust-lang.org](https://www.rust-lang.org).
 
 ### Installation
 
@@ -49,7 +49,7 @@ npm run dev
 ```
 
 5. Riew the Result:
-   Open your web browser and go to the URL provided by the development server (typically [http://localhost:5173]() or similar). Open the browser's console to see the results of the Rust code executed in WebAssembly.
+   Open your web browser and go to the URL provided by the development server (typically [http://localhost:5173](http://localhost:5173) or similar). Open the browser's console to see the results of the Rust code executed in WebAssembly.
 
 ### Additional Information
 
